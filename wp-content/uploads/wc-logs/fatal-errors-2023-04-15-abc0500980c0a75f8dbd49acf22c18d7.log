@@ -1,0 +1,4 @@
+2023-04-15T07:43:25+00:00 CRITICAL Out of memory (allocated 71303168) (tried to allocate 32768 bytes) in C:\xampp\htdocs\MarutiPlast\wp-content\plugins\woocommerce\includes\rest-api\Controllers\Version3\class-wc-rest-report-coupons-totals-controller.php on line 1
+
+2023-04-15T10:17:53+00:00 CRITICAL Out of memory (allocated 56623104) (tried to allocate 65536 bytes) in C:\xampp\htdocs\MarutiPlast\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\ClassicTemplate.php on line 323
+
